@@ -81,3 +81,8 @@ gem 'pry'
 gem 'pry-rails'
 
 gem 'font-awesome-sass', '~> 5.4.1'
+
+# task 7~
+gem 'jp_prefecture'
+gem 'dotenv-rails'
+
